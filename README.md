@@ -1,4 +1,4 @@
-Swing-MvcApp-Test
+Spring-MvcApp-Test
 =================
 
-Testing out continuous delivery with team city and heroku using a swing mvc app.
+Testing out continuous delivery with team city and heroku using a spring mvc app.
